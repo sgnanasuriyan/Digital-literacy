@@ -1,0 +1,29 @@
+Stay Safe Online: A Checklist for Indian College Students
+
+This checklist is designed to protect your digital identity, academic data, and finances while navigating campus life and beyond.
+
+    Secure Your UPI Transactions: Never enter your UPI PIN to receive money. Scammers often use "Request Money" links on apps like GPay or PhonePe to trick you into authorizing a debit from your account.
+
+    Verify QR Codes: Before scanning a QR code at a local canteen or shop, ensure it hasn’t been tampered with or covered by a fake sticker. Always verify the recipient's name in the app before hitting "Pay."
+
+    Use Multi-Factor Authentication (MFA): Enable MFA on your university portals, Gmail, and Instagram. This ensures that even if someone steals your password, they cannot access your account without a code from your phone.
+
+    Beware of "Job/Internship" Scams: Be skeptical of unsolicited WhatsApp or Telegram messages offering high-paying part-time jobs (like "liking YouTube videos"). These are often precursors to "task-based" financial fraud.
+
+    Avoid Public Wi-Fi for Sensitive Tasks: Refrain from logging into banking apps or student portals using free railway or cafe Wi-Fi. If necessary, use a trusted VPN or your mobile hotspot.
+
+    Check Link Authenticity: Before clicking on links for "exam results" or "scholarship forms," check the URL. Official government sites end in .gov.in or .nic.in, and educational institutions usually end in .ac.in or .edu.in.
+
+    Secure Your Social Media: Set your profiles to "Private" to prevent "identity cloning," where scammers use your photos to create fake accounts and ask your friends for emergency funds.
+
+    Keep Software Updated: Regularly update your laptop and smartphone OS. These updates often contain critical security patches that protect you from the latest malware targeting student devices.
+
+    [!IMPORTANT]
+
+    How to Report: If you or someone you know falls victim to a scam, immediately report it at the National Cyber Crime Reporting Portal at cybercrime.gov.in or call the national helpline at 1930.
+
+Project Report: Personal Reflection
+
+The most surprising discovery during this research was the sheer sophistication of social engineering specifically targeting Indian youth. I was particularly struck by the "Digital Arrest" scams, where fraudsters impersonate law enforcement via video calls to intimidate students into transferring money. It is unsettling how they leverage the cultural respect for authority to bypass logical thinking. Additionally, the scale of "Task Fraud"—where victims are groomed with small payouts before being fleeced for lakhs—highlights a dangerous evolution in financial crime.
+
+As a result, the habit I will personally change is my indiscriminate use of public Wi-Fi. I previously viewed "Free Wi-Fi" as a harmless perk, but I now realize the ease with which "Man-in-the-Middle" (MITM) attacks can intercept unencrypted data. From now on, I will exclusively use my mobile data for any transaction or login, ensuring my digital footprint remains encrypted and private.
