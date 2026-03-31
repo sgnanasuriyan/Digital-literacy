@@ -9,7 +9,7 @@ Repository Structure
 
 Task 1: Digital Literacy Presentation Content: A one-page visual infographic.
 
-Key Topics: What is Digital Literacy?, Productivity Tools, Safe Internet Practices, and AI Ethics.
+Key Topics: What is Digital Literacy?, Productivity Tools, and AI Ethics.
 
 Tool Used: Canva.
 
@@ -19,7 +19,7 @@ Technical Skill: Includes a C-programming solution (getMaxValue.c) demonstrating
 
 Task 3: Awareness Quiz Interactive Tool: A 5-question Google Form quiz.
 
-Goal: To test batchmates on their knowledge of phishing, 2FA, and digital etiquette.
+Goal: To test batchmates on their knowledge of phishing
 
 Access: [Link to Google Form Quiz] (Paste your link here)
 
@@ -33,7 +33,7 @@ Highlights: UPI Safety, QR code verification, and SIM-swap protection.
 
 Emergency Contact: National Helpline 1930 | cybercrime.gov.in
 
-Tech Stack & Tools Design: Canva / Miro
+Tech Stack & Tools Design: Canva
 
 Programming: C (GCC Compiler)
 
